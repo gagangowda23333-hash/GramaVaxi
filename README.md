@@ -211,7 +211,3 @@ Core functionality works offline using local state handling and Firestore sync.
 MindMatrix VTU Internship Program
 
 ---
-
-# 📄 License
-
-This project is developed for educational and internship purposes.
