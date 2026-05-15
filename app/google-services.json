@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597365240212",
+    "project_id": "gramavaxi-7ebd4",
+    "storage_bucket": "gramavaxi-7ebd4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597365240212:android:a5388f2a68973f96ba1f81",
+        "android_client_info": {
+          "package_name": "com.example.gramavaxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUcl3JEe9awwJxxHEw6P-TrNia8q_5HOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

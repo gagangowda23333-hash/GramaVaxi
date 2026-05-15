@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Grama-Vaxi</string>
+    <string name="tagline">Smart Livestock Health &amp; Vaccine Alert System</string>
+    <string name="home">Home</string>
+    <string name="animals">Animals</string>
+    <string name="calendar">Calendar</string>
+    <string name="alerts">Alerts</string>
+    <string name="profile">Profile</string>
+    <string name="add_animal">Add Animal</string>
+    <string name="register_animal">Register New Animal</string>
+    <string name="animal_name">Animal Name</string>
+    <string name="species">Species</string>
+    <string name="breed">Breed</string>
+    <string name="age">Age (Years)</string>
+    <string name="gender">Gender</string>
+    <string name="notes">Notes</string>
+    <string name="save">Save</string>
+    <string name="report_sick">Report Sick Animal</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="severity">Severity</string>
+    <string name="submit_report">Submit Report</string>
+    <string name="upcoming_vaccines">Upcoming Vaccines</string>
+    <string name="overdue_vaccines">Overdue Vaccines</string>
+    <string name="total_animals">Total Animals</string>
+    <string name="health_alerts">Health Alerts</string>
+</resources>

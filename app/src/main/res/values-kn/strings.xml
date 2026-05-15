@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ಗ್ರಾಮ-ವ್ಯಾಕ್ಸಿ</string>
+    <string name="tagline">ಸ್ಮಾರ್ಟ್ ಜಾನುವಾರು ಆರೋಗ್ಯ ಮತ್ತು ಲಸಿಕೆ ಎಚ್ಚರಿಕೆ ವ್ಯವಸ್ಥೆ</string>
+    <string name="home">ಹೋಮ್</string>
+    <string name="animals">ಪ್ರಾಣಿಗಳು</string>
+    <string name="calendar">ಕ್ಯಾಲೆಂಡರ್</string>
+    <string name="alerts">ಎಚ್ಚರಿಕೆಗಳು</string>
+    <string name="profile">ಪ್ರೊಫೈಲ್</string>
+    <string name="add_animal">ಪ್ರಾಣಿ ಸೇರಿಸಿ</string>
+    <string name="register_animal">ಹೊಸ ಪ್ರಾಣಿ ನೋಂದಣಿ</string>
+    <string name="animal_name">ಪ್ರಾಣಿಯ ಹೆಸರು</string>
+    <string name="species">ಜಾತಿ</string>
+    <string name="breed">ತಳಿ</string>
+    <string name="age">ವಯಸ್ಸು (ವರ್ಷಗಳು)</string>
+    <string name="gender">ಲಿಂಗ</string>
+    <string name="notes">ಟಿಪ್ಪಣಿಗಳು</string>
+    <string name="save">ಉಳಿಸಿ</string>
+    <string name="report_sick">ಅನಾರೋಗ್ಯದ ವರದಿ</string>
+    <string name="symptoms">ಲಕ್ಷಣಗಳು</string>
+    <string name="severity">ತೀವ್ರತೆ</string>
+    <string name="submit_report">ವರದಿ ಸಲ್ಲಿಸಿ</string>
+    <string name="upcoming_vaccines">ಮುಂಬರುವ ಲಸಿಕೆಗಳು</string>
+    <string name="overdue_vaccines">ಬಾಕಿ ಇರುವ ಲಸಿಕೆಗಳು</string>
+    <string name="total_animals">ಒಟ್ಟು ಪ್ರಾಣಿಗಳು</string>
+    <string name="health_alerts">ಆರೋಗ್ಯ ಎಚ್ಚರಿಕೆಗಳು</string>
+</resources>
